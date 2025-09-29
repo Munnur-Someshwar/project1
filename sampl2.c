@@ -1,4 +1,5 @@
 int main(){
-print("hello");
+printf("hello");
+printf("DEVOPS LAB");
 return 0;
 }
